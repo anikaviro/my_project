@@ -1,0 +1,1482 @@
+,location,plastic_end_of_life_fates,year,value
+0,Other OECD America,Littered,2000,0.021844
+1,Other OECD America,Littered,2001,0.022556
+2,Other OECD America,Littered,2002,0.023735
+3,Other OECD America,Littered,2003,0.024734
+4,Other OECD America,Littered,2004,0.025961
+5,Other OECD America,Littered,2005,0.026805
+6,Other OECD America,Littered,2006,0.028089
+7,Other OECD America,Littered,2007,0.02942
+8,Other OECD America,Littered,2008,0.029095
+9,Other OECD America,Littered,2009,0.029671
+10,Other OECD America,Littered,2010,0.0313
+11,Other OECD America,Littered,2011,0.032174
+12,Other OECD America,Littered,2012,0.032833
+13,Other OECD America,Littered,2013,0.033879
+14,Other OECD America,Littered,2014,0.034041
+15,Other OECD America,Littered,2015,0.036449
+16,Other OECD America,Littered,2016,0.037174
+17,Other OECD America,Littered,2017,0.037769
+18,Other OECD America,Littered,2018,0.039274
+19,Other OECD America,Littered,2019,0.040186
+40,OECD Asia,Landfilled,2000,3.011471
+41,OECD Asia,Landfilled,2001,3.033074
+42,OECD Asia,Landfilled,2002,3.088715
+43,OECD Asia,Landfilled,2003,3.11647
+44,OECD Asia,Landfilled,2004,3.150764
+45,OECD Asia,Landfilled,2005,3.136741
+46,OECD Asia,Landfilled,2006,3.143761
+47,OECD Asia,Landfilled,2007,3.138926
+48,OECD Asia,Landfilled,2008,3.002892
+49,OECD Asia,Landfilled,2009,2.921184
+50,OECD Asia,Landfilled,2010,2.890513
+51,OECD Asia,Landfilled,2011,2.815645
+52,OECD Asia,Landfilled,2012,2.688641
+53,OECD Asia,Landfilled,2013,2.568249
+54,OECD Asia,Landfilled,2014,2.407567
+55,OECD Asia,Landfilled,2015,2.256119
+56,OECD Asia,Landfilled,2016,2.056114
+57,OECD Asia,Landfilled,2017,1.854827
+58,OECD Asia,Landfilled,2018,1.680675
+59,OECD Asia,Landfilled,2019,1.73161
+60,OECD Oceania,Mismanaged,2000,0.050274
+61,OECD Oceania,Mismanaged,2001,0.053953
+62,OECD Oceania,Mismanaged,2002,0.058243
+63,OECD Oceania,Mismanaged,2003,0.062439
+64,OECD Oceania,Mismanaged,2004,0.066976
+65,OECD Oceania,Mismanaged,2005,0.071014
+66,OECD Oceania,Mismanaged,2006,0.075621
+67,OECD Oceania,Mismanaged,2007,0.080384
+68,OECD Oceania,Mismanaged,2008,0.083206
+69,OECD Oceania,Mismanaged,2009,0.087144
+70,OECD Oceania,Mismanaged,2010,0.092364
+71,OECD Oceania,Mismanaged,2011,0.097318
+72,OECD Oceania,Mismanaged,2012,0.099739
+73,OECD Oceania,Mismanaged,2013,0.105509
+74,OECD Oceania,Mismanaged,2014,0.107727
+75,OECD Oceania,Mismanaged,2015,0.111547
+76,OECD Oceania,Mismanaged,2016,0.115241
+77,OECD Oceania,Mismanaged,2017,0.120137
+78,OECD Oceania,Mismanaged,2018,0.122146
+79,OECD Oceania,Mismanaged,2019,0.124666
+80,Other Eurasia,Incinerated,2000,0.03509
+81,Other Eurasia,Incinerated,2001,0.038005
+82,Other Eurasia,Incinerated,2002,0.04173
+83,Other Eurasia,Incinerated,2003,0.045448
+84,Other Eurasia,Incinerated,2004,0.049723
+85,Other Eurasia,Incinerated,2005,0.053658
+86,Other Eurasia,Incinerated,2006,0.058508
+87,Other Eurasia,Incinerated,2007,0.063743
+88,Other Eurasia,Incinerated,2008,0.066585
+89,Other Eurasia,Incinerated,2009,0.071122
+90,Other Eurasia,Incinerated,2010,0.077627
+91,Other Eurasia,Incinerated,2011,0.083142
+92,Other Eurasia,Incinerated,2012,0.088438
+93,Other Eurasia,Incinerated,2013,0.094321
+94,Other Eurasia,Incinerated,2014,0.099834
+95,Other Eurasia,Incinerated,2015,0.106897
+96,Other Eurasia,Incinerated,2016,0.11336
+97,Other Eurasia,Incinerated,2017,0.120433
+98,Other Eurasia,Incinerated,2018,0.126616
+99,Other Eurasia,Incinerated,2019,0.171116
+120,Other EU,Recycled,2000,0.026501
+121,Other EU,Recycled,2001,0.030182
+122,Other EU,Recycled,2002,0.034538
+123,Other EU,Recycled,2003,0.039024
+124,Other EU,Recycled,2004,0.044023
+125,Other EU,Recycled,2005,0.048831
+126,Other EU,Recycled,2006,0.054403
+127,Other EU,Recycled,2007,0.060362
+128,Other EU,Recycled,2008,0.064418
+129,Other EU,Recycled,2009,0.06985
+130,Other EU,Recycled,2010,0.077183
+131,Other EU,Recycled,2011,0.08362
+132,Other EU,Recycled,2012,0.090165
+133,Other EU,Recycled,2013,0.097095
+134,Other EU,Recycled,2014,0.103497
+135,Other EU,Recycled,2015,0.111699
+136,Other EU,Recycled,2016,0.119842
+137,Other EU,Recycled,2017,0.129428
+138,Other EU,Recycled,2018,0.13828
+139,Other EU,Recycled,2019,0.147028
+140,OECD Non-EU,Incinerated,2000,0.991601
+141,OECD Non-EU,Incinerated,2001,1.081808
+142,OECD Non-EU,Incinerated,2002,1.192903
+143,OECD Non-EU,Incinerated,2003,1.303685
+144,OECD Non-EU,Incinerated,2004,1.428431
+145,OECD Non-EU,Incinerated,2005,1.542921
+146,OECD Non-EU,Incinerated,2006,1.680025
+147,OECD Non-EU,Incinerated,2007,1.825899
+148,OECD Non-EU,Incinerated,2008,1.906495
+149,OECD Non-EU,Incinerated,2009,2.029509
+150,OECD Non-EU,Incinerated,2010,2.206657
+151,OECD Non-EU,Incinerated,2011,2.353521
+152,OECD Non-EU,Incinerated,2012,2.505559
+153,OECD Non-EU,Incinerated,2013,2.678511
+154,OECD Non-EU,Incinerated,2014,2.813809
+155,OECD Non-EU,Incinerated,2015,2.981903
+156,OECD Non-EU,Incinerated,2016,3.161066
+157,OECD Non-EU,Incinerated,2017,3.382451
+158,OECD Non-EU,Incinerated,2018,3.594269
+159,OECD Non-EU,Incinerated,2019,3.759428
+160,Other OECD America,Incinerated,2000,0.022175
+161,Other OECD America,Incinerated,2001,0.022921
+162,Other OECD America,Incinerated,2002,0.02414
+163,Other OECD America,Incinerated,2003,0.02518
+164,Other OECD America,Incinerated,2004,0.026454
+165,Other OECD America,Incinerated,2005,0.02734
+166,Other OECD America,Incinerated,2006,0.028677
+167,Other OECD America,Incinerated,2007,0.030063
+168,Other OECD America,Incinerated,2008,0.029768
+169,Other OECD America,Incinerated,2009,0.030392
+170,Other OECD America,Incinerated,2010,0.032088
+171,Other OECD America,Incinerated,2011,0.033027
+172,Other OECD America,Incinerated,2012,0.033737
+173,Other OECD America,Incinerated,2013,0.034852
+174,Other OECD America,Incinerated,2014,0.035054
+175,Other OECD America,Incinerated,2015,0.037578
+176,Other OECD America,Incinerated,2016,0.038364
+177,Other OECD America,Incinerated,2017,0.03902
+178,Other OECD America,Incinerated,2018,0.040615
+179,Other OECD America,Incinerated,2019,0.054668
+180,Other non-OECD Asia,Landfilled,2000,1.932519
+181,Other non-OECD Asia,Landfilled,2001,2.150235
+182,Other non-OECD Asia,Landfilled,2002,2.417594
+183,Other non-OECD Asia,Landfilled,2003,2.693601
+184,Other non-OECD Asia,Landfilled,2004,3.00909
+185,Other non-OECD Asia,Landfilled,2005,3.312735
+186,Other non-OECD Asia,Landfilled,2006,3.676252
+187,Other non-OECD Asia,Landfilled,2007,4.072216
+188,Other non-OECD Asia,Landfilled,2008,4.339835
+189,Other non-OECD Asia,Landfilled,2009,4.713863
+190,Other non-OECD Asia,Landfilled,2010,5.239573
+191,Other non-OECD Asia,Landfilled,2011,5.709205
+192,Other non-OECD Asia,Landfilled,2012,6.171062
+193,Other non-OECD Asia,Landfilled,2013,6.692499
+194,Other non-OECD Asia,Landfilled,2014,7.236724
+195,Other non-OECD Asia,Landfilled,2015,7.891369
+196,Other non-OECD Asia,Landfilled,2016,8.500107
+197,Other non-OECD Asia,Landfilled,2017,9.235472
+198,Other non-OECD Asia,Landfilled,2018,10.132723
+199,Other non-OECD Asia,Landfilled,2019,10.609316
+200,Other EU,Mismanaged,2000,0.195193
+201,Other EU,Mismanaged,2001,0.199752
+202,Other EU,Mismanaged,2002,0.206234
+203,Other EU,Mismanaged,2003,0.211699
+204,Other EU,Mismanaged,2004,0.217889
+205,Other EU,Mismanaged,2005,0.222005
+206,Other EU,Mismanaged,2006,0.227716
+207,Other EU,Mismanaged,2007,0.233435
+208,Other EU,Mismanaged,2008,0.232433
+209,Other EU,Mismanaged,2009,0.234867
+210,Other EU,Mismanaged,2010,0.241252
+211,Other EU,Mismanaged,2011,0.244083
+212,Other EU,Mismanaged,2012,0.246226
+213,Other EU,Mismanaged,2013,0.248287
+214,Other EU,Mismanaged,2014,0.248232
+215,Other EU,Mismanaged,2015,0.250592
+216,Other EU,Mismanaged,2016,0.251989
+217,Other EU,Mismanaged,2017,0.255199
+218,Other EU,Mismanaged,2018,0.255565
+219,Other EU,Mismanaged,2019,0.25695
+240,Other Eurasia,Littered,2000,0.020402
+241,Other Eurasia,Littered,2001,0.021497
+242,Other Eurasia,Littered,2002,0.02304
+243,Other Eurasia,Littered,2003,0.024471
+244,Other Eurasia,Littered,2004,0.026153
+245,Other Eurasia,Littered,2005,0.027516
+246,Other Eurasia,Littered,2006,0.029332
+247,Other Eurasia,Littered,2007,0.031249
+248,Other Eurasia,Littered,2008,0.031612
+249,Other Eurasia,Littered,2009,0.03288
+250,Other Eurasia,Littered,2010,0.035162
+251,Other Eurasia,Littered,2011,0.036752
+252,Other Eurasia,Littered,2012,0.038165
+253,Other Eurasia,Littered,2013,0.039819
+254,Other Eurasia,Littered,2014,0.041127
+255,Other Eurasia,Littered,2015,0.04311
+256,Other Eurasia,Littered,2016,0.044653
+257,Other Eurasia,Littered,2017,0.046399
+258,Other Eurasia,Littered,2018,0.047646
+259,Other Eurasia,Littered,2019,0.048614
+260,OECD Oceania,Recycled,2000,0.016475
+261,OECD Oceania,Recycled,2001,0.018856
+262,OECD Oceania,Recycled,2002,0.021716
+263,OECD Oceania,Recycled,2003,0.024791
+264,OECD Oceania,Recycled,2004,0.028302
+265,OECD Oceania,Recycled,2005,0.031852
+266,OECD Oceania,Recycled,2006,0.036013
+267,OECD Oceania,Recycled,2007,0.040621
+268,OECD Oceania,Recycled,2008,0.044397
+269,OECD Oceania,Recycled,2009,0.049224
+270,OECD Oceania,Recycled,2010,0.055415
+271,OECD Oceania,Recycled,2011,0.061935
+272,OECD Oceania,Recycled,2012,0.067306
+273,OECD Oceania,Recycled,2013,0.075553
+274,OECD Oceania,Recycled,2014,0.081905
+275,OECD Oceania,Recycled,2015,0.090467
+276,OECD Oceania,Recycled,2016,0.099474
+277,OECD Oceania,Recycled,2017,0.11038
+278,OECD Oceania,Recycled,2018,0.119763
+279,OECD Oceania,Recycled,2019,0.130055
+300,Middle East & North Africa,Landfilled,2000,3.459274
+301,Middle East & North Africa,Landfilled,2001,3.654809
+302,Middle East & North Africa,Landfilled,2002,3.909257
+303,Middle East & North Africa,Landfilled,2003,4.153307
+304,Middle East & North Africa,Landfilled,2004,4.431411
+305,Middle East & North Africa,Landfilled,2005,4.669905
+306,Middle East & North Africa,Landfilled,2006,4.967413
+307,Middle East & North Africa,Landfilled,2007,5.282295
+308,Middle East & North Africa,Landfilled,2008,5.410183
+309,Middle East & North Africa,Landfilled,2009,5.65378
+310,Middle East & North Africa,Landfilled,2010,6.045373
+311,Middle East & North Africa,Landfilled,2011,6.349112
+312,Middle East & North Africa,Landfilled,2012,6.640932
+313,Middle East & North Africa,Landfilled,2013,6.956822
+314,Middle East & North Africa,Landfilled,2014,7.257648
+315,Middle East & North Africa,Landfilled,2015,7.58716
+316,Middle East & North Africa,Landfilled,2016,8.119819
+317,Middle East & North Africa,Landfilled,2017,8.518126
+318,Middle East & North Africa,Landfilled,2018,8.842667
+319,Middle East & North Africa,Landfilled,2019,9.160226
+320,OECD Non-EU,Littered,2000,0.017818
+321,OECD Non-EU,Littered,2001,0.018342
+322,OECD Non-EU,Littered,2002,0.019237
+323,OECD Non-EU,Littered,2003,0.019983
+324,OECD Non-EU,Littered,2004,0.020905
+325,OECD Non-EU,Littered,2005,0.021512
+326,OECD Non-EU,Littered,2006,0.022461
+327,OECD Non-EU,Littered,2007,0.023439
+328,OECD Non-EU,Littered,2008,0.023109
+329,OECD Non-EU,Littered,2009,0.023483
+330,OECD Non-EU,Littered,2010,0.024678
+331,OECD Non-EU,Littered,2011,0.025276
+332,OECD Non-EU,Littered,2012,0.025919
+333,OECD Non-EU,Littered,2013,0.026808
+334,OECD Non-EU,Littered,2014,0.027124
+335,OECD Non-EU,Littered,2015,0.027746
+336,OECD Non-EU,Littered,2016,0.028402
+337,OECD Non-EU,Littered,2017,0.029432
+338,OECD Non-EU,Littered,2018,0.030309
+339,OECD Non-EU,Littered,2019,0.031191
+340,Other Africa,Incinerated,2019,0.082107
+341,Other non-OECD Asia,Incinerated,2000,0.125411
+342,Other non-OECD Asia,Incinerated,2001,0.144614
+343,Other non-OECD Asia,Incinerated,2002,0.16833
+344,Other non-OECD Asia,Incinerated,2003,0.193788
+345,Other non-OECD Asia,Incinerated,2004,0.223416
+346,Other non-OECD Asia,Incinerated,2005,0.253366
+347,Other non-OECD Asia,Incinerated,2006,0.289396
+348,Other non-OECD Asia,Incinerated,2007,0.329532
+349,Other non-OECD Asia,Incinerated,2008,0.360013
+350,Other non-OECD Asia,Incinerated,2009,0.400827
+351,Other non-OECD Asia,Incinerated,2010,0.456726
+352,Other non-OECD Asia,Incinerated,2011,0.509363
+353,Other non-OECD Asia,Incinerated,2012,0.563194
+354,Other non-OECD Asia,Incinerated,2013,0.624204
+355,Other non-OECD Asia,Incinerated,2014,0.689116
+356,Other non-OECD Asia,Incinerated,2015,0.766749
+357,Other non-OECD Asia,Incinerated,2016,0.841779
+358,Other non-OECD Asia,Incinerated,2017,0.93125
+359,Other non-OECD Asia,Incinerated,2018,1.039834
+360,Other non-OECD Asia,Incinerated,2019,1.115846
+361,Other EU,Landfilled,2000,0.96121
+362,Other EU,Landfilled,2001,1.001734
+363,Other EU,Landfilled,2002,1.053779
+364,Other EU,Landfilled,2003,1.102521
+365,Other EU,Landfilled,2004,1.157203
+366,Other EU,Landfilled,2005,1.202942
+367,Other EU,Landfilled,2006,1.259679
+368,Other EU,Landfilled,2007,1.318949
+369,Other EU,Landfilled,2008,1.341545
+370,Other EU,Landfilled,2009,1.38581
+371,Other EU,Landfilled,2010,1.456326
+372,Other EU,Landfilled,2011,1.507974
+373,Other EU,Landfilled,2012,1.55822
+374,Other EU,Landfilled,2013,1.611278
+375,Other EU,Landfilled,2014,1.652526
+376,Other EU,Landfilled,2015,1.712134
+377,Other EU,Landfilled,2016,1.767918
+378,Other EU,Landfilled,2017,1.840215
+379,Other EU,Landfilled,2018,1.895924
+380,Other EU,Landfilled,2019,1.958309
+381,OECD Asia,Littered,2000,0.01227
+382,OECD Asia,Littered,2001,0.012745
+383,OECD Asia,Littered,2002,0.013482
+384,OECD Asia,Littered,2003,0.014131
+385,OECD Asia,Littered,2004,0.014913
+386,OECD Asia,Littered,2005,0.015489
+387,OECD Asia,Littered,2006,0.016317
+388,OECD Asia,Littered,2007,0.01718
+389,OECD Asia,Littered,2008,0.01712
+390,OECD Asia,Littered,2009,0.017571
+391,OECD Asia,Littered,2010,0.018608
+392,OECD Asia,Littered,2011,0.019376
+393,OECD Asia,Littered,2012,0.019924
+394,OECD Asia,Littered,2013,0.02071
+395,OECD Asia,Littered,2014,0.02122
+396,OECD Asia,Littered,2015,0.022005
+397,OECD Asia,Littered,2016,0.022361
+398,OECD Asia,Littered,2017,0.022881
+399,OECD Asia,Littered,2018,0.024084
+400,OECD Asia,Littered,2019,0.024566
+401,Other Eurasia,Mismanaged,2000,2.539366
+402,Other Eurasia,Mismanaged,2001,2.691648
+403,Other Eurasia,Mismanaged,2002,2.882637
+404,Other Eurasia,Mismanaged,2003,3.068791
+405,Other Eurasia,Mismanaged,2004,3.27865
+406,Other Eurasia,Mismanaged,2005,3.465766
+407,Other Eurasia,Mismanaged,2006,3.693312
+408,Other Eurasia,Mismanaged,2007,3.93505
+409,Other Eurasia,Mismanaged,2008,4.060371
+410,Other Eurasia,Mismanaged,2009,4.262272
+411,Other Eurasia,Mismanaged,2010,4.549455
+412,Other Eurasia,Mismanaged,2011,4.78453
+413,Other Eurasia,Mismanaged,2012,4.997677
+414,Other Eurasia,Mismanaged,2013,5.227428
+415,Other Eurasia,Mismanaged,2014,5.438804
+416,Other Eurasia,Mismanaged,2015,5.714412
+417,Other Eurasia,Mismanaged,2016,5.959975
+418,Other Eurasia,Mismanaged,2017,6.223548
+419,Other Eurasia,Mismanaged,2018,6.439712
+420,Other Eurasia,Mismanaged,2019,6.562043
+421,Latin America,Incinerated,2000,0.026203
+422,Latin America,Incinerated,2001,0.02823
+423,Latin America,Incinerated,2002,0.030996
+424,Latin America,Incinerated,2003,0.033658
+425,Latin America,Incinerated,2004,0.036808
+426,Latin America,Incinerated,2005,0.039534
+427,Latin America,Incinerated,2006,0.043099
+428,Latin America,Incinerated,2007,0.046922
+429,Latin America,Incinerated,2008,0.048116
+430,Latin America,Incinerated,2009,0.050926
+431,Latin America,Incinerated,2010,0.055383
+432,Latin America,Incinerated,2011,0.05865
+433,Latin America,Incinerated,2012,0.061751
+434,Latin America,Incinerated,2013,0.065393
+435,Latin America,Incinerated,2014,0.06829
+436,Latin America,Incinerated,2015,0.073202
+437,Latin America,Incinerated,2016,0.074354
+438,Latin America,Incinerated,2017,0.076591
+439,Latin America,Incinerated,2018,0.079507
+440,Latin America,Incinerated,2019,0.109527
+441,OECD EU ,Landfilled,2000,21.966891
+442,OECD EU ,Landfilled,2001,22.097539
+443,OECD EU ,Landfilled,2002,22.474946
+444,OECD EU ,Landfilled,2003,22.68213
+445,OECD EU ,Landfilled,2004,22.955212
+446,OECD EU ,Landfilled,2005,22.926138
+447,OECD EU ,Landfilled,2006,23.069778
+448,OECD EU ,Landfilled,2007,23.171148
+449,OECD EU ,Landfilled,2008,22.414008
+450,OECD EU ,Landfilled,2009,22.06419
+451,OECD EU ,Landfilled,2010,22.146846
+452,OECD EU ,Landfilled,2011,21.832117
+453,OECD EU ,Landfilled,2012,21.374965
+454,OECD EU ,Landfilled,2013,20.988884
+455,OECD EU ,Landfilled,2014,20.298755
+456,OECD EU ,Landfilled,2015,19.822582
+457,OECD EU ,Landfilled,2016,19.305964
+458,OECD EU ,Landfilled,2017,18.915927
+459,OECD EU ,Landfilled,2018,18.480282
+460,OECD EU ,Landfilled,2019,18.813869
+461,Other Africa,Recycled,2000,0.15826
+462,Other Africa,Recycled,2001,0.178806
+463,Other Africa,Recycled,2002,0.204712
+464,Other Africa,Recycled,2003,0.231719
+465,Other Africa,Recycled,2004,0.263191
+466,Other Africa,Recycled,2005,0.293509
+467,Other Africa,Recycled,2006,0.330648
+468,Other Africa,Recycled,2007,0.371522
+469,Other Africa,Recycled,2008,0.396715
+470,Other Africa,Recycled,2009,0.434174
+471,Other Africa,Recycled,2010,0.486237
+472,Other Africa,Recycled,2011,0.532116
+473,Other Africa,Recycled,2012,0.576706
+474,Other Africa,Recycled,2013,0.625352
+475,Other Africa,Recycled,2014,0.671536
+476,Other Africa,Recycled,2015,0.733364
+477,Other Africa,Recycled,2016,0.776651
+478,Other Africa,Recycled,2017,0.823244
+479,Other Africa,Recycled,2018,0.876343
+480,Other Africa,Recycled,2019,0.929337
+481,OECD Non-EU,Mismanaged,2000,1.256187
+482,OECD Non-EU,Mismanaged,2001,1.274711
+483,OECD Non-EU,Mismanaged,2002,1.308761
+484,OECD Non-EU,Mismanaged,2003,1.333602
+485,OECD Non-EU,Mismanaged,2004,1.363537
+486,OECD Non-EU,Mismanaged,2005,1.375757
+487,OECD Non-EU,Mismanaged,2006,1.399711
+488,OECD Non-EU,Mismanaged,2007,1.422149
+489,OECD Non-EU,Mismanaged,2008,1.390156
+490,OECD Non-EU,Mismanaged,2009,1.384839
+491,OECD Non-EU,Mismanaged,2010,1.408236
+492,OECD Non-EU,Mismanaged,2011,1.405175
+493,OECD Non-EU,Mismanaged,2012,1.398682
+494,OECD Non-EU,Mismanaged,2013,1.396987
+495,OECD Non-EU,Mismanaged,2014,1.3709
+496,OECD Non-EU,Mismanaged,2015,1.356361
+497,OECD Non-EU,Mismanaged,2016,1.341227
+498,OECD Non-EU,Mismanaged,2017,1.336966
+499,OECD Non-EU,Mismanaged,2018,1.32153
+500,OECD Non-EU,Mismanaged,2019,1.321256
+521,Other non-OECD Asia,Littered,2000,0.029431
+522,Other non-OECD Asia,Littered,2001,0.032098
+523,Other non-OECD Asia,Littered,2002,0.035562
+524,Other non-OECD Asia,Littered,2003,0.038974
+525,Other non-OECD Asia,Littered,2004,0.042935
+526,Other non-OECD Asia,Littered,2005,0.046458
+527,Other non-OECD Asia,Littered,2006,0.050884
+528,Other non-OECD Asia,Littered,2007,0.055625
+529,Other non-OECD Asia,Littered,2008,0.057631
+530,Other non-OECD Asia,Littered,2009,0.061364
+531,Other non-OECD Asia,Littered,2010,0.067587
+532,Other non-OECD Asia,Littered,2011,0.072609
+533,Other non-OECD Asia,Littered,2012,0.077382
+534,Other non-OECD Asia,Littered,2013,0.083079
+535,Other non-OECD Asia,Littered,2014,0.088472
+536,Other non-OECD Asia,Littered,2015,0.095092
+537,Other non-OECD Asia,Littered,2016,0.100485
+538,Other non-OECD Asia,Littered,2017,0.107254
+539,Other non-OECD Asia,Littered,2018,0.115511
+540,Other non-OECD Asia,Littered,2019,0.119188
+541,OECD Asia,Incinerated,2000,1.649779
+542,OECD Asia,Incinerated,2001,1.854014
+543,OECD Asia,Incinerated,2002,2.102326
+544,OECD Asia,Incinerated,2003,2.358219
+545,OECD Asia,Incinerated,2004,2.648324
+546,OECD Asia,Incinerated,2005,2.927418
+547,OECD Asia,Incinerated,2006,3.258924
+548,OECD Asia,Incinerated,2007,3.617327
+549,OECD Asia,Incinerated,2008,3.850682
+550,OECD Asia,Incinerated,2009,4.178079
+551,OECD Asia,Incinerated,2010,4.625774
+552,OECD Asia,Incinerated,2011,5.059242
+553,OECD Asia,Incinerated,2012,5.450052
+554,OECD Asia,Incinerated,2013,5.908859
+555,OECD Asia,Incinerated,2014,6.333149
+556,OECD Asia,Incinerated,2015,6.850512
+557,OECD Asia,Incinerated,2016,7.293018
+558,OECD Asia,Incinerated,2017,7.809137
+559,OECD Asia,Incinerated,2018,8.582843
+560,OECD Asia,Incinerated,2019,8.776591
+561,Latin America,Littered,2000,0.024422
+562,Latin America,Littered,2001,0.026192
+563,Latin America,Littered,2002,0.028637
+564,Latin America,Littered,2003,0.030961
+565,Latin America,Littered,2004,0.033717
+566,Latin America,Littered,2005,0.036053
+567,Latin America,Littered,2006,0.039142
+568,Latin America,Littered,2007,0.042439
+569,Latin America,Littered,2008,0.043279
+570,Latin America,Littered,2009,0.045584
+571,Latin America,Littered,2010,0.049369
+572,Latin America,Littered,2011,0.052031
+573,Latin America,Littered,2012,0.054526
+574,Latin America,Littered,2013,0.057503
+575,Latin America,Littered,2014,0.059762
+576,Latin America,Littered,2015,0.063798
+577,Latin America,Littered,2016,0.064415
+578,Latin America,Littered,2017,0.065998
+579,Latin America,Littered,2018,0.068167
+580,Latin America,Littered,2019,0.070147
+581,Other Africa,Mismanaged,2000,3.612815
+582,Other Africa,Mismanaged,2001,3.87782
+583,Other Africa,Mismanaged,2002,4.225762
+584,Other Africa,Mismanaged,2003,4.561808
+585,Other Africa,Mismanaged,2004,4.950097
+586,Other Africa,Mismanaged,2005,5.284911
+587,Other Africa,Mismanaged,2006,5.708091
+588,Other Africa,Mismanaged,2007,6.157719
+589,Other Africa,Mismanaged,2008,6.325124
+590,Other Africa,Mismanaged,2009,6.664882
+591,Other Africa,Mismanaged,2010,7.19039
+592,Other Africa,Mismanaged,2011,7.589907
+593,Other Africa,Mismanaged,2012,7.947111
+594,Other Africa,Mismanaged,2013,8.336551
+595,Other Africa,Mismanaged,2014,8.664041
+596,Other Africa,Mismanaged,2015,9.147928
+597,Other Africa,Mismanaged,2016,9.381436
+598,Other Africa,Mismanaged,2017,9.643507
+599,Other Africa,Mismanaged,2018,9.966291
+600,Other Africa,Mismanaged,2019,10.251547
+601,OECD Non-EU,Recycled,2000,0.229312
+602,OECD Non-EU,Recycled,2001,0.260817
+603,OECD Non-EU,Recycled,2002,0.298345
+604,OECD Non-EU,Recycled,2003,0.336905
+605,OECD Non-EU,Recycled,2004,0.380211
+606,OECD Non-EU,Recycled,2005,0.421297
+607,OECD Non-EU,Recycled,2006,0.469218
+608,OECD Non-EU,Recycled,2007,0.520385
+609,OECD Non-EU,Recycled,2008,0.553376
+610,OECD Non-EU,Recycled,2009,0.598773
+611,OECD Non-EU,Recycled,2010,0.661411
+612,OECD Non-EU,Recycled,2011,0.716808
+613,OECD Non-EU,Recycled,2012,0.772766
+614,OECD Non-EU,Recycled,2013,0.83429
+615,OECD Non-EU,Recycled,2014,0.884879
+616,OECD Non-EU,Recycled,2015,0.952709
+617,OECD Non-EU,Recycled,2016,1.020662
+618,OECD Non-EU,Recycled,2017,1.101144
+619,OECD Non-EU,Recycled,2018,1.177598
+620,OECD Non-EU,Recycled,2019,1.246805
+621,Other OECD America,Recycled,2000,0.313506
+622,Other OECD America,Recycled,2001,0.341955
+623,Other OECD America,Recycled,2002,0.377361
+624,Other OECD America,Recycled,2003,0.412568
+625,Other OECD America,Recycled,2004,0.452366
+626,Other OECD America,Recycled,2005,0.48842
+627,Other OECD America,Recycled,2006,0.531931
+628,Other OECD America,Recycled,2007,0.578238
+629,Other OECD America,Recycled,2008,0.602041
+630,Other OECD America,Recycled,2009,0.640115
+631,Other OECD America,Recycled,2010,0.696671
+632,Other OECD America,Recycled,2011,0.742939
+633,Other OECD America,Recycled,2012,0.783685
+634,Other OECD America,Recycled,2013,0.831809
+635,Other OECD America,Recycled,2014,0.863291
+636,Other OECD America,Recycled,2015,0.955447
+637,Other OECD America,Recycled,2016,1.005013
+638,Other OECD America,Recycled,2017,1.052668
+639,Other OECD America,Recycled,2018,1.126405
+640,Other OECD America,Recycled,2019,1.183822
+641,Other non-OECD Asia,Mismanaged,2000,3.197663
+642,Other non-OECD Asia,Mismanaged,2001,3.481906
+643,Other non-OECD Asia,Mismanaged,2002,3.830459
+644,Other non-OECD Asia,Mismanaged,2003,4.175391
+645,Other non-OECD Asia,Mismanaged,2004,4.562681
+646,Other non-OECD Asia,Mismanaged,2005,4.912998
+647,Other non-OECD Asia,Mismanaged,2006,5.331479
+648,Other non-OECD Asia,Mismanaged,2007,5.774192
+649,Other non-OECD Asia,Mismanaged,2008,6.016917
+650,Other non-OECD Asia,Mismanaged,2009,6.38842
+651,Other non-OECD Asia,Mismanaged,2010,6.938955
+652,Other non-OECD Asia,Mismanaged,2011,7.387566
+653,Other non-OECD Asia,Mismanaged,2012,7.800418
+654,Other non-OECD Asia,Mismanaged,2013,8.261432
+655,Other non-OECD Asia,Mismanaged,2014,8.723181
+656,Other non-OECD Asia,Mismanaged,2015,9.286759
+657,Other non-OECD Asia,Mismanaged,2016,9.764632
+658,Other non-OECD Asia,Mismanaged,2017,10.353667
+659,Other non-OECD Asia,Mismanaged,2018,11.083074
+660,Other non-OECD Asia,Mismanaged,2019,11.334832
+661,Other EU,Littered,2000,0.003678
+662,Other EU,Littered,2001,0.003802
+663,Other EU,Littered,2002,0.003995
+664,Other EU,Littered,2003,0.004162
+665,Other EU,Littered,2004,0.004361
+666,Other EU,Littered,2005,0.004501
+667,Other EU,Littered,2006,0.004704
+668,Other EU,Littered,2007,0.004914
+669,Other EU,Littered,2008,0.004883
+670,Other EU,Littered,2009,0.004984
+671,Other EU,Littered,2010,0.005245
+672,Other EU,Littered,2011,0.005388
+673,Other EU,Littered,2012,0.005521
+674,Other EU,Littered,2013,0.005696
+675,Other EU,Littered,2014,0.005799
+676,Other EU,Littered,2015,0.005979
+677,Other EU,Littered,2016,0.006134
+678,Other EU,Littered,2017,0.006362
+679,Other EU,Littered,2018,0.00655
+680,Other EU,Littered,2019,0.006771
+681,OECD EU ,Incinerated,2000,5.170488
+682,OECD EU ,Incinerated,2001,5.811097
+683,OECD EU ,Incinerated,2002,6.567894
+684,OECD EU ,Incinerated,2003,7.331044
+685,OECD EU ,Incinerated,2004,8.174842
+686,OECD EU ,Incinerated,2005,8.96587
+687,OECD EU ,Incinerated,2006,9.882863
+688,OECD EU ,Incinerated,2007,10.849545
+689,OECD EU ,Incinerated,2008,11.444401
+690,OECD EU ,Incinerated,2009,12.271519
+691,OECD EU ,Incinerated,2010,13.407657
+692,OECD EU ,Incinerated,2011,14.373093
+693,OECD EU ,Incinerated,2012,15.296604
+694,OECD EU ,Incinerated,2013,16.326902
+695,OECD EU ,Incinerated,2014,17.163419
+696,OECD EU ,Incinerated,2015,18.226653
+697,OECD EU ,Incinerated,2016,19.319363
+698,OECD EU ,Incinerated,2017,20.62482
+699,OECD EU ,Incinerated,2018,21.986188
+700,OECD EU ,Incinerated,2019,22.350366
+721,Latin America,Mismanaged,2000,3.300993
+722,Latin America,Mismanaged,2001,3.522364
+723,Latin America,Mismanaged,2002,3.812602
+724,Latin America,Mismanaged,2003,4.088926
+725,Latin America,Mismanaged,2004,4.405661
+726,Latin America,Mismanaged,2005,4.673355
+727,Latin America,Mismanaged,2006,5.011371
+728,Latin America,Mismanaged,2007,5.366695
+729,Latin America,Mismanaged,2008,5.48438
+730,Latin America,Mismanaged,2009,5.741409
+731,Latin America,Mismanaged,2010,6.13544
+732,Latin America,Mismanaged,2011,6.416618
+733,Latin America,Mismanaged,2012,6.65867
+734,Latin America,Mismanaged,2013,6.927404
+735,Latin America,Mismanaged,2014,7.134898
+736,Latin America,Mismanaged,2015,7.503428
+737,Latin America,Mismanaged,2016,7.568952
+738,Latin America,Mismanaged,2017,7.712183
+739,Latin America,Mismanaged,2018,7.895938
+740,Latin America,Mismanaged,2019,8.089722
+741,OECD EU ,Littered,2000,0.067518
+742,OECD EU ,Littered,2001,0.0688
+743,OECD EU ,Littered,2002,0.071379
+744,OECD EU ,Littered,2003,0.073332
+745,OECD EU ,Littered,2004,0.075829
+746,OECD EU ,Littered,2005,0.077115
+747,OECD EU ,Littered,2006,0.079516
+748,OECD EU ,Littered,2007,0.081909
+749,OECD EU ,Littered,2008,0.079752
+750,OECD EU ,Littered,2009,0.079945
+751,OECD EU ,Littered,2010,0.082857
+752,OECD EU ,Littered,2011,0.083801
+753,OECD EU ,Littered,2012,0.084369
+754,OECD EU ,Littered,2013,0.085663
+755,OECD EU ,Littered,2014,0.085334
+756,OECD EU ,Littered,2015,0.08611
+757,OECD EU ,Littered,2016,0.08692
+758,OECD EU ,Littered,2017,0.08877
+759,OECD EU ,Littered,2018,0.090667
+760,OECD EU ,Littered,2019,0.092473
+761,Middle East & North Africa,Incinerated,2000,0.027877
+762,Middle East & North Africa,Incinerated,2001,0.029391
+763,Middle East & North Africa,Incinerated,2002,0.031522
+764,Middle East & North Africa,Incinerated,2003,0.03351
+765,Middle East & North Africa,Incinerated,2004,0.03585
+766,Middle East & North Africa,Incinerated,2005,0.037764
+767,Middle East & North Africa,Incinerated,2006,0.040308
+768,Middle East & North Africa,Incinerated,2007,0.043
+769,Middle East & North Africa,Incinerated,2008,0.043586
+770,Middle East & North Africa,Incinerated,2009,0.045416
+771,Middle East & North Africa,Incinerated,2010,0.04884
+772,Middle East & North Africa,Incinerated,2011,0.051322
+773,Middle East & North Africa,Incinerated,2012,0.053755
+774,Middle East & North Africa,Incinerated,2013,0.056551
+775,Middle East & North Africa,Incinerated,2014,0.059016
+776,Middle East & North Africa,Incinerated,2015,0.061726
+777,Middle East & North Africa,Incinerated,2016,0.066562
+778,Middle East & North Africa,Incinerated,2017,0.06997
+779,Middle East & North Africa,Incinerated,2018,0.072601
+780,Middle East & North Africa,Incinerated,2019,0.102777
+801,Other Africa,Landfilled,2000,1.453495
+802,Other Africa,Landfilled,2001,1.574416
+803,Other Africa,Landfilled,2002,1.731634
+804,Other Africa,Landfilled,2003,1.886626
+805,Other Africa,Landfilled,2004,2.066287
+806,Other Africa,Landfilled,2005,2.226484
+807,Other Africa,Landfilled,2006,2.427328
+808,Other Africa,Landfilled,2007,2.643101
+809,Other Africa,Landfilled,2008,2.739462
+810,Other Africa,Landfilled,2009,2.913276
+811,Other Africa,Landfilled,2010,3.172608
+812,Other Africa,Landfilled,2011,3.380004
+813,Other Africa,Landfilled,2012,3.572269
+814,Other Africa,Landfilled,2013,3.782889
+815,Other Africa,Landfilled,2014,3.968332
+816,Other Africa,Landfilled,2015,4.229538
+817,Other Africa,Landfilled,2016,4.377538
+818,Other Africa,Landfilled,2017,4.54164
+819,Other Africa,Landfilled,2018,4.737664
+820,Other Africa,Landfilled,2019,4.902004
+821,Other OECD America,Mismanaged,2000,1.505486
+822,Other OECD America,Mismanaged,2001,1.548854
+823,Other OECD America,Mismanaged,2002,1.61457
+824,Other OECD America,Mismanaged,2003,1.670867
+825,Other OECD America,Mismanaged,2004,1.736834
+826,Other OECD America,Mismanaged,2005,1.781785
+827,Other OECD America,Mismanaged,2006,1.846043
+828,Other OECD America,Mismanaged,2007,1.911679
+829,Other OECD America,Mismanaged,2008,1.900987
+830,Other OECD America,Mismanaged,2009,1.931246
+831,Other OECD America,Mismanaged,2010,2.008299
+832,Other OECD America,Mismanaged,2011,2.048646
+833,Other OECD America,Mismanaged,2012,2.070533
+834,Other OECD America,Mismanaged,2013,2.107337
+835,Other OECD America,Mismanaged,2014,2.098561
+836,Other OECD America,Mismanaged,2015,2.223751
+837,Other OECD America,Mismanaged,2016,2.244823
+838,Other OECD America,Mismanaged,2017,2.259366
+839,Other OECD America,Mismanaged,2018,2.323883
+840,Other OECD America,Mismanaged,2019,2.337389
+841,OECD Oceania,Landfilled,2000,0.32527
+842,OECD Oceania,Landfilled,2001,0.356914
+843,OECD Oceania,Landfilled,2002,0.394161
+844,OECD Oceania,Landfilled,2003,0.432541
+845,OECD Oceania,Landfilled,2004,0.475248
+846,OECD Oceania,Landfilled,2005,0.516564
+847,OECD Oceania,Landfilled,2006,0.564297
+848,OECD Oceania,Landfilled,2007,0.61582
+849,OECD Oceania,Landfilled,2008,0.655099
+850,OECD Oceania,Landfilled,2009,0.705644
+851,OECD Oceania,Landfilled,2010,0.76977
+852,OECD Oceania,Landfilled,2011,0.835674
+853,OECD Oceania,Landfilled,2012,0.883588
+854,OECD Oceania,Landfilled,2013,0.965448
+855,OECD Oceania,Landfilled,2014,1.019368
+856,OECD Oceania,Landfilled,2015,1.092514
+857,OECD Oceania,Landfilled,2016,1.170018
+858,OECD Oceania,Landfilled,2017,1.26665
+859,OECD Oceania,Landfilled,2018,1.339241
+860,OECD Oceania,Landfilled,2019,1.417077
+861,Other Eurasia,Recycled,2000,0.159436
+862,Other Eurasia,Recycled,2001,0.177405
+863,Other Eurasia,Recycled,2002,0.199487
+864,Other Eurasia,Recycled,2003,0.222252
+865,Other Eurasia,Recycled,2004,0.248173
+866,Other Eurasia,Recycled,2005,0.272986
+867,Other Eurasia,Recycled,2006,0.302626
+868,Other Eurasia,Recycled,2007,0.334808
+869,Other Eurasia,Recycled,2008,0.355723
+870,Other Eurasia,Recycled,2009,0.385391
+871,Other Eurasia,Recycled,2010,0.425815
+872,Other Eurasia,Recycled,2011,0.461834
+873,Other Eurasia,Recycled,2012,0.49643
+874,Other Eurasia,Recycled,2013,0.534135
+875,Other Eurasia,Recycled,2014,0.570526
+876,Other Eurasia,Recycled,2015,0.617758
+877,Other Eurasia,Recycled,2016,0.661115
+878,Other Eurasia,Recycled,2017,0.708417
+879,Other Eurasia,Recycled,2018,0.751458
+880,Other Eurasia,Recycled,2019,0.793023
+881,Middle East & North Africa,Littered,2000,0.024488
+882,Middle East & North Africa,Littered,2001,0.025612
+883,Middle East & North Africa,Littered,2002,0.027269
+884,Middle East & North Africa,Littered,2003,0.028768
+885,Middle East & North Africa,Littered,2004,0.030554
+886,Middle East & North Africa,Littered,2005,0.031936
+887,Middle East & North Africa,Littered,2006,0.033846
+888,Middle East & North Africa,Littered,2007,0.035852
+889,Middle East & North Africa,Littered,2008,0.035983
+890,Middle East & North Africa,Littered,2009,0.037178
+891,Middle East & North Africa,Littered,2010,0.039719
+892,Middle East & North Africa,Littered,2011,0.041416
+893,Middle East & North Africa,Littered,2012,0.043058
+894,Middle East & North Africa,Littered,2013,0.044995
+895,Middle East & North Africa,Littered,2014,0.046604
+896,Middle East & North Africa,Littered,2015,0.048369
+897,Middle East & North Africa,Littered,2016,0.051859
+898,Middle East & North Africa,Littered,2017,0.054119
+899,Middle East & North Africa,Littered,2018,0.055713
+900,Middle East & North Africa,Littered,2019,0.057504
+901,Latin America,Recycled,2000,0.331489
+902,Latin America,Recycled,2001,0.375196
+903,Latin America,Recycled,2002,0.430071
+904,Latin America,Recycled,2003,0.487546
+905,Latin America,Recycled,2004,0.554419
+906,Latin America,Recycled,2005,0.619442
+907,Latin America,Recycled,2006,0.698778
+908,Latin America,Recycled,2007,0.786248
+909,Latin America,Recycled,2008,0.842459
+910,Latin America,Recycled,2009,0.924212
+911,Latin America,Recycled,2010,1.034727
+912,Latin America,Recycled,2011,1.132504
+913,Latin America,Recycled,2012,1.228215
+914,Latin America,Recycled,2013,1.333962
+915,Latin America,Recycled,2014,1.433652
+916,Latin America,Recycled,2015,1.576706
+917,Latin America,Recycled,2016,1.659917
+918,Latin America,Recycled,2017,1.762215
+919,Latin America,Recycled,2018,1.877878
+920,Latin America,Recycled,2019,1.992802
+921,Other EU,Incinerated,2000,0.017538
+922,Other EU,Incinerated,2001,0.018965
+923,Other EU,Incinerated,2002,0.020705
+924,Other EU,Incinerated,2003,0.02244
+925,Other EU,Incinerated,2004,0.024383
+926,Other EU,Incinerated,2005,0.026186
+927,Other EU,Incinerated,2006,0.028328
+928,Other EU,Incinerated,2007,0.030611
+929,Other EU,Incinerated,2008,0.031996
+930,Other EU,Incinerated,2009,0.034003
+931,Other EU,Incinerated,2010,0.03681
+932,Other EU,Incinerated,2011,0.039187
+933,Other EU,Incinerated,2012,0.041596
+934,Other EU,Incinerated,2013,0.044187
+935,Other EU,Incinerated,2014,0.046494
+936,Other EU,Incinerated,2015,0.049408
+937,Other EU,Incinerated,2016,0.052287
+938,Other EU,Incinerated,2017,0.055754
+939,Other EU,Incinerated,2018,0.05884
+940,Other EU,Incinerated,2019,0.063877
+941,OECD Non-EU,Landfilled,2000,5.988789
+942,OECD Non-EU,Landfilled,2001,6.174807
+943,OECD Non-EU,Landfilled,2002,6.446299
+944,OECD Non-EU,Landfilled,2003,6.682765
+945,OECD Non-EU,Landfilled,2004,6.956634
+946,OECD Non-EU,Landfilled,2005,7.151091
+947,OECD Non-EU,Landfilled,2006,7.41921
+948,OECD Non-EU,Landfilled,2007,7.693034
+949,OECD Non-EU,Landfilled,2008,7.677844
+950,OECD Non-EU,Landfilled,2009,7.81797
+951,OECD Non-EU,Landfilled,2010,8.135986
+952,OECD Non-EU,Landfilled,2011,8.315525
+953,OECD Non-EU,Landfilled,2012,8.490361
+954,OECD Non-EU,Landfilled,2013,8.710955
+955,OECD Non-EU,Landfilled,2014,8.790699
+956,OECD Non-EU,Landfilled,2015,8.955026
+957,OECD Non-EU,Landfilled,2016,9.131472
+958,OECD Non-EU,Landfilled,2017,9.404018
+959,OECD Non-EU,Landfilled,2018,9.62322
+960,OECD Non-EU,Landfilled,2019,9.876118
+981,Other OECD America,Landfilled,2000,4.104219
+982,Other OECD America,Landfilled,2001,4.265721
+983,Other OECD America,Landfilled,2002,4.493477
+984,Other OECD America,Landfilled,2003,4.699416
+985,Other OECD America,Landfilled,2004,4.937767
+986,Other OECD America,Landfilled,2005,5.120821
+987,Other OECD America,Landfilled,2006,5.364889
+988,Other OECD America,Landfilled,2007,5.618664
+989,Other OECD America,Landfilled,2008,5.64919
+990,Other OECD America,Landfilled,2009,5.804981
+991,Other OECD America,Landfilled,2010,6.108298
+992,Other OECD America,Landfilled,2011,6.30506
+993,Other OECD America,Landfilled,2012,6.450219
+994,Other OECD America,Landfilled,2013,6.64708
+995,Other OECD America,Landfilled,2014,6.702392
+996,Other OECD America,Landfilled,2015,7.192255
+997,Other OECD America,Landfilled,2016,7.353758
+998,Other OECD America,Landfilled,2017,7.498078
+999,Other OECD America,Landfilled,2018,7.814518
+1000,Other OECD America,Landfilled,2019,7.997318
+1001,OECD Asia,Recycled,2000,0.229828
+1002,OECD Asia,Recycled,2001,0.263792
+1003,OECD Asia,Recycled,2002,0.304547
+1004,OECD Asia,Recycled,2003,0.347038
+1005,OECD Asia,Recycled,2004,0.395239
+1006,OECD Asia,Recycled,2005,0.441905
+1007,OECD Asia,Recycled,2006,0.496708
+1008,OECD Asia,Recycled,2007,0.55591
+1009,OECD Asia,Recycled,2008,0.596139
+1010,OECD Asia,Recycled,2009,0.650744
+1011,OECD Asia,Recycled,2010,0.724876
+1012,OECD Asia,Recycled,2011,0.798455
+1013,OECD Asia,Recycled,2012,0.864444
+1014,OECD Asia,Recycled,2013,0.9391
+1015,OECD Asia,Recycled,2014,1.008836
+1016,OECD Asia,Recycled,2015,1.097589
+1017,OECD Asia,Recycled,2016,1.17305
+1018,OECD Asia,Recycled,2017,1.259005
+1019,OECD Asia,Recycled,2018,1.385336
+1020,OECD Asia,Recycled,2019,1.463308
+1041,OECD Oceania,Incinerated,2000,0.040503
+1042,OECD Oceania,Incinerated,2001,0.045015
+1043,OECD Oceania,Incinerated,2002,0.050359
+1044,OECD Oceania,Incinerated,2003,0.055969
+1045,OECD Oceania,Incinerated,2004,0.062279
+1046,OECD Oceania,Incinerated,2005,0.068534
+1047,OECD Oceania,Incinerated,2006,0.075801
+1048,OECD Oceania,Incinerated,2007,0.083744
+1049,OECD Oceania,Incinerated,2008,0.090116
+1050,OECD Oceania,Incinerated,2009,0.098217
+1051,OECD Oceania,Incinerated,2010,0.108441
+1052,OECD Oceania,Incinerated,2011,0.119109
+1053,OECD Oceania,Incinerated,2012,0.127393
+1054,OECD Oceania,Incinerated,2013,0.140799
+1055,OECD Oceania,Incinerated,2014,0.150347
+1056,OECD Oceania,Incinerated,2015,0.162978
+1057,OECD Oceania,Incinerated,2016,0.176487
+1058,OECD Oceania,Incinerated,2017,0.193165
+1059,OECD Oceania,Incinerated,2018,0.206472
+1060,OECD Oceania,Incinerated,2019,0.21783
+1081,Middle East & North Africa,Mismanaged,2000,3.121883
+1082,Middle East & North Africa,Mismanaged,2001,3.263276
+1083,Middle East & North Africa,Mismanaged,2002,3.452754
+1084,Middle East & North Africa,Mismanaged,2003,3.628668
+1085,Middle East & North Africa,Mismanaged,2004,3.829336
+1086,Middle East & North Africa,Mismanaged,2005,3.991293
+1087,Middle East & North Africa,Mismanaged,2006,4.198402
+1088,Middle East & North Africa,Mismanaged,2007,4.41469
+1089,Middle East & North Africa,Mismanaged,2008,4.472405
+1090,Middle East & North Africa,Mismanaged,2009,4.621749
+1091,Middle East & North Africa,Mismanaged,2010,4.885492
+1092,Middle East & North Africa,Mismanaged,2011,5.072754
+1093,Middle East & North Africa,Mismanaged,2012,5.24484
+1094,Middle East & North Africa,Mismanaged,2013,5.430095
+1095,Middle East & North Africa,Mismanaged,2014,5.599134
+1096,Middle East & North Africa,Mismanaged,2015,5.785391
+1097,Middle East & North Africa,Mismanaged,2016,6.118184
+1098,Middle East & North Africa,Mismanaged,2017,6.342768
+1099,Middle East & North Africa,Mismanaged,2018,6.506718
+1100,Middle East & North Africa,Mismanaged,2019,6.675025
+1101,Other Africa,Littered,2000,0.029352
+1102,Other Africa,Littered,2001,0.031434
+1103,Other Africa,Littered,2002,0.03434
+1104,Other Africa,Littered,2003,0.037086
+1105,Other Africa,Littered,2004,0.04036
+1106,Other Africa,Littered,2005,0.043102
+1107,Other Africa,Littered,2006,0.046764
+1108,Other Africa,Littered,2007,0.050668
+1109,Other Africa,Littered,2008,0.051528
+1110,Other Africa,Littered,2009,0.054181
+1111,Other Africa,Littered,2010,0.058766
+1112,Other Africa,Littered,2011,0.062012
+1113,Other Africa,Littered,2012,0.065068
+1114,Other Africa,Littered,2013,0.068658
+1115,Other Africa,Littered,2014,0.071418
+1116,Other Africa,Littered,2015,0.07571
+1117,Other Africa,Littered,2016,0.077222
+1118,Other Africa,Littered,2017,0.079093
+1119,Other Africa,Littered,2018,0.081695
+1120,Other Africa,Littered,2019,0.084051
+1121,Other non-OECD Asia,Recycled,2000,0.274212
+1122,Other non-OECD Asia,Recycled,2001,0.315333
+1123,Other non-OECD Asia,Recycled,2002,0.366303
+1124,Other non-OECD Asia,Recycled,2003,0.420711
+1125,Other non-OECD Asia,Recycled,2004,0.483947
+1126,Other non-OECD Asia,Recycled,2005,0.546848
+1127,Other non-OECD Asia,Recycled,2006,0.622647
+1128,Other non-OECD Asia,Recycled,2007,0.706757
+1129,Other non-OECD Asia,Recycled,2008,0.767181
+1130,Other non-OECD Asia,Recycled,2009,0.850076
+1131,Other non-OECD Asia,Recycled,2010,0.966776
+1132,Other non-OECD Asia,Recycled,2011,1.075426
+1133,Other non-OECD Asia,Recycled,2012,1.183065
+1134,Other non-OECD Asia,Recycled,2013,1.305255
+1135,Other non-OECD Asia,Recycled,2014,1.434872
+1136,Other non-OECD Asia,Recycled,2015,1.597105
+1137,Other non-OECD Asia,Recycled,2016,1.749339
+1138,Other non-OECD Asia,Recycled,2017,1.92939
+1139,Other non-OECD Asia,Recycled,2018,2.146655
+1140,Other non-OECD Asia,Recycled,2019,2.283199
+1161,OECD Asia,Mismanaged,2000,0.601118
+1162,OECD Asia,Mismanaged,2001,0.603463
+1163,OECD Asia,Mismanaged,2002,0.612241
+1164,OECD Asia,Mismanaged,2003,0.615263
+1165,OECD Asia,Mismanaged,2004,0.619209
+1166,OECD Asia,Mismanaged,2005,0.61336
+1167,OECD Asia,Mismanaged,2006,0.611166
+1168,OECD Asia,Mismanaged,2007,0.606257
+1169,OECD Asia,Mismanaged,2008,0.576047
+1170,OECD Asia,Mismanaged,2009,0.555821
+1171,OECD Asia,Mismanaged,2010,0.544655
+1172,OECD Asia,Mismanaged,2011,0.524697
+1173,OECD Asia,Mismanaged,2012,0.494264
+1174,OECD Asia,Mismanaged,2013,0.464218
+1175,OECD Asia,Mismanaged,2014,0.426475
+1176,OECD Asia,Mismanaged,2015,0.38971
+1177,OECD Asia,Mismanaged,2016,0.343975
+1178,OECD Asia,Mismanaged,2017,0.297112
+1179,OECD Asia,Mismanaged,2018,0.252924
+1180,OECD Asia,Mismanaged,2019,0.254107
+1181,OECD EU ,Recycled,2000,1.62886
+1182,OECD EU ,Recycled,2001,1.838617
+1183,OECD EU ,Recycled,2002,2.085776
+1184,OECD EU ,Recycled,2003,2.335742
+1185,OECD EU ,Recycled,2004,2.612599
+1186,OECD EU ,Recycled,2005,2.869682
+1187,OECD EU ,Recycled,2006,3.165603
+1188,OECD EU ,Recycled,2007,3.475983
+1189,OECD EU ,Recycled,2008,3.665327
+1190,OECD EU ,Recycled,2009,3.927074
+1191,OECD EU ,Recycled,2010,4.290514
+1192,OECD EU ,Recycled,2011,4.604755
+1193,OECD EU ,Recycled,2012,4.897937
+1194,OECD EU ,Recycled,2013,5.212043
+1195,OECD EU ,Recycled,2014,5.466744
+1196,OECD EU ,Recycled,2015,5.80231
+1197,OECD EU ,Recycled,2016,6.115516
+1198,OECD EU ,Recycled,2017,6.487726
+1199,OECD EU ,Recycled,2018,6.87217
+1200,OECD EU ,Recycled,2019,7.193393
+1201,Other Eurasia,Landfilled,2000,3.522878
+1202,Other Eurasia,Landfilled,2001,3.730482
+1203,Other Eurasia,Landfilled,2002,3.991612
+1204,Other Eurasia,Landfilled,2003,4.245391
+1205,Other Eurasia,Landfilled,2004,4.53169
+1206,Other Eurasia,Landfilled,2005,4.785955
+1207,Other Eurasia,Landfilled,2006,5.095988
+1208,Other Eurasia,Landfilled,2007,5.42504
+1209,Other Eurasia,Landfilled,2008,5.591705
+1210,Other Eurasia,Landfilled,2009,5.864195
+1211,Other Eurasia,Landfilled,2010,6.254161
+1212,Other Eurasia,Landfilled,2011,6.57128
+1213,Other Eurasia,Landfilled,2012,6.858376
+1214,Other Eurasia,Landfilled,2013,7.168402
+1215,Other Eurasia,Landfilled,2014,7.451873
+1216,Other Eurasia,Landfilled,2015,7.822733
+1217,Other Eurasia,Landfilled,2016,8.151369
+1218,Other Eurasia,Landfilled,2017,8.504143
+1219,Other Eurasia,Landfilled,2018,8.791321
+1220,Other Eurasia,Landfilled,2019,9.070024
+1221,OECD Oceania,Littered,2000,0.000871
+1222,OECD Oceania,Littered,2001,0.000947
+1223,OECD Oceania,Littered,2002,0.001043
+1224,OECD Oceania,Littered,2003,0.001138
+1225,OECD Oceania,Littered,2004,0.001247
+1226,OECD Oceania,Littered,2005,0.001345
+1227,OECD Oceania,Littered,2006,0.001463
+1228,OECD Oceania,Littered,2007,0.001589
+1229,OECD Oceania,Littered,2008,0.001658
+1230,OECD Oceania,Littered,2009,0.001765
+1231,OECD Oceania,Littered,2010,0.001921
+1232,OECD Oceania,Littered,2011,0.002067
+1233,OECD Oceania,Littered,2012,0.002162
+1234,OECD Oceania,Littered,2013,0.002339
+1235,OECD Oceania,Littered,2014,0.002441
+1236,OECD Oceania,Littered,2015,0.002596
+1237,OECD Oceania,Littered,2016,0.002746
+1238,OECD Oceania,Littered,2017,0.00293
+1239,OECD Oceania,Littered,2018,0.003057
+1240,OECD Oceania,Littered,2019,0.003187
+1241,Latin America,Landfilled,2000,2.540255
+1242,Latin America,Landfilled,2001,2.76533
+1243,Latin America,Landfilled,2002,3.054276
+1244,Latin America,Landfilled,2003,3.342734
+1245,Latin America,Landfilled,2004,3.676104
+1246,Latin America,Landfilled,2005,3.980388
+1247,Latin America,Landfilled,2006,4.357858
+1248,Latin America,Landfilled,2007,4.765441
+1249,Latin America,Landfilled,2008,4.972049
+1250,Latin America,Landfilled,2009,5.31592
+1251,Latin America,Landfilled,2010,5.803482
+1252,Latin America,Landfilled,2011,6.200877
+1253,Latin America,Landfilled,2012,6.575735
+1254,Latin America,Landfilled,2013,6.992885
+1255,Latin America,Landfilled,2014,7.362711
+1256,Latin America,Landfilled,2015,7.917731
+1257,Latin America,Landfilled,2016,8.166467
+1258,Latin America,Landfilled,2017,8.510771
+1259,Latin America,Landfilled,2018,8.914843
+1260,Latin America,Landfilled,2019,9.230186
+1261,OECD EU ,Mismanaged,2000,3.973171
+1262,OECD EU ,Mismanaged,2001,3.960186
+1263,OECD EU ,Mismanaged,2002,3.987832
+1264,OECD EU ,Mismanaged,2003,3.982081
+1265,OECD EU ,Mismanaged,2004,3.983958
+1266,OECD EU ,Mismanaged,2005,3.929959
+1267,OECD EU ,Mismanaged,2006,3.901409
+1268,OECD EU ,Mismanaged,2007,3.861554
+1269,OECD EU ,Mismanaged,2008,3.677954
+1270,OECD EU ,Mismanaged,2009,3.558933
+1271,OECD EU ,Mismanaged,2010,3.504928
+1272,OECD EU ,Mismanaged,2011,3.384102
+1273,OECD EU ,Mismanaged,2012,3.23692
+1274,OECD EU ,Mismanaged,2013,3.096118
+1275,OECD EU ,Mismanaged,2014,2.908716
+1276,OECD EU ,Mismanaged,2015,2.749696
+1277,OECD EU ,Mismanaged,2016,2.581177
+1278,OECD EU ,Mismanaged,2017,2.424047
+1279,OECD EU ,Mismanaged,2018,2.254403
+1280,OECD EU ,Mismanaged,2019,2.221185
+1281,Middle East & North Africa,Recycled,2000,0.193797
+1282,Middle East & North Africa,Recycled,2001,0.214061
+1283,Middle East & North Africa,Recycled,2002,0.239064
+1284,Middle East & North Africa,Recycled,2003,0.264545
+1285,Middle East & North Africa,Recycled,2004,0.293493
+1286,Middle East & North Africa,Recycled,2005,0.320683
+1287,Middle East & North Africa,Recycled,2006,0.353247
+1288,Middle East & North Africa,Recycled,2007,0.388379
+1289,Middle East & North Africa,Recycled,2008,0.409708
+1290,Middle East & North Africa,Recycled,2009,0.440973
+1291,Middle East & North Africa,Recycled,2010,0.485918
+1292,Middle East & North Africa,Recycled,2011,0.524927
+1293,Middle East & North Africa,Recycled,2012,0.563737
+1294,Middle East & North Africa,Recycled,2013,0.605736
+1295,Middle East & North Africa,Recycled,2014,0.647598
+1296,Middle East & North Africa,Recycled,2015,0.694957
+1297,Middle East & North Africa,Recycled,2016,0.762385
+1298,Middle East & North Africa,Recycled,2017,0.817235
+1299,Middle East & North Africa,Recycled,2018,0.867307
+1300,Middle East & North Africa,Recycled,2019,0.921618
+1301,United States,Recycled,2000,1.098544
+1302,United States,Recycled,2001,1.184984
+1303,United States,Recycled,2002,1.291648
+1304,United States,Recycled,2003,1.396021
+1305,United States,Recycled,2004,1.512825
+1306,United States,Recycled,2005,1.614403
+1307,United States,Recycled,2006,1.735224
+1308,United States,Recycled,2007,1.861229
+1309,United States,Recycled,2008,1.919682
+1310,United States,Recycled,2009,2.016496
+1311,United States,Recycled,2010,2.164681
+1312,United States,Recycled,2011,2.284132
+1313,United States,Recycled,2012,2.390964
+1314,United States,Recycled,2013,2.497642
+1315,United States,Recycled,2014,2.587828
+1316,United States,Recycled,2015,2.70853
+1317,United States,Recycled,2016,2.864726
+1318,United States,Recycled,2017,2.980488
+1319,United States,Recycled,2018,3.123337
+1320,United States,Recycled,2019,3.26975
+1321,United States,Incinerated,2000,7.151613
+1322,United States,Incinerated,2001,7.466014
+1323,United States,Incinerated,2002,7.883364
+1324,United States,Incinerated,2003,8.267798
+1325,United States,Incinerated,2004,8.701623
+1326,United States,Incinerated,2005,9.047242
+1327,United States,Incinerated,2006,9.484988
+1328,United States,Incinerated,2007,9.937044
+1329,United States,Incinerated,2008,10.044827
+1330,United States,Incinerated,2009,10.342247
+1331,United States,Incinerated,2010,10.865699
+1332,United States,Incinerated,2011,11.222986
+1333,United States,Incinerated,2012,11.532263
+1334,United States,Incinerated,2013,11.859049
+1335,United States,Incinerated,2014,12.097834
+1336,United States,Incinerated,2015,12.415617
+1337,United States,Incinerated,2016,12.909279
+1338,United States,Incinerated,2017,13.213204
+1339,United States,Incinerated,2018,13.625549
+1340,United States,Incinerated,2019,13.897049
+1341,United States,Landfilled,2000,34.858035
+1342,United States,Landfilled,2001,35.868928
+1343,United States,Landfilled,2002,37.328596
+1344,United States,Landfilled,2003,38.59423
+1345,United States,Landfilled,2004,40.045662
+1346,United States,Landfilled,2005,41.059394
+1347,United States,Landfilled,2006,42.448065
+1348,United States,Landfilled,2007,43.859363
+1349,United States,Landfilled,2008,43.756935
+1350,United States,Landfilled,2009,44.455845
+1351,United States,Landfilled,2010,46.075965
+1352,United States,Landfilled,2011,46.965328
+1353,United States,Landfilled,2012,47.629207
+1354,United States,Landfilled,2013,48.33828
+1355,United States,Landfilled,2014,48.680115
+1356,United States,Landfilled,2015,49.323586
+1357,United States,Landfilled,2016,50.635927
+1358,United States,Landfilled,2017,51.174166
+1359,United States,Landfilled,2018,52.106584
+1360,United States,Landfilled,2019,53.086564
+1361,United States,Mismanaged,2000,3.638777
+1362,United States,Mismanaged,2001,3.641029
+1363,United States,Mismanaged,2002,3.680473
+1364,United States,Mismanaged,2003,3.692642
+1365,United States,Mismanaged,2004,3.713553
+1366,United States,Mismanaged,2005,3.685981
+1367,United States,Mismanaged,2006,3.683387
+1368,United States,Mismanaged,2007,3.673731
+1369,United States,Mismanaged,2008,3.534963
+1370,United States,Mismanaged,2009,3.457134
+1371,United States,Mismanaged,2010,3.442054
+1372,United States,Mismanaged,2011,3.364751
+1373,United States,Mismanaged,2012,3.264327
+1374,United States,Mismanaged,2013,3.160712
+1375,United States,Mismanaged,2014,3.030476
+1376,United States,Mismanaged,2015,2.91632
+1377,United States,Mismanaged,2016,2.835037
+1378,United States,Mismanaged,2017,2.703756
+1379,United States,Mismanaged,2018,2.587329
+1380,United States,Mismanaged,2019,2.448288
+1381,United States,Littered,2000,0.09777
+1382,United States,Littered,2001,0.099953
+1383,United States,Littered,2002,0.103937
+1384,United States,Littered,2003,0.107097
+1385,United States,Littered,2004,0.111022
+1386,United States,Littered,2005,0.11328
+1387,United States,Littered,2006,0.117093
+1388,United States,Littered,2007,0.120936
+1389,United States,Littered,2008,0.118507
+1390,United States,Littered,2009,0.119358
+1391,United States,Littered,2010,0.123973
+1392,United States,Littered,2011,0.125776
+1393,United States,Littered,2012,0.127054
+1394,United States,Littered,2013,0.128924
+1395,United States,Littered,2014,0.12914
+1396,United States,Littered,2015,0.130204
+1397,United States,Littered,2016,0.133172
+1398,United States,Littered,2017,0.134351
+1399,United States,Littered,2018,0.136877
+1400,United States,Littered,2019,0.139407
+1421,Canada,Recycled,2000,0.127029
+1422,Canada,Recycled,2001,0.138619
+1423,Canada,Recycled,2002,0.152728
+1424,Canada,Recycled,2003,0.166722
+1425,Canada,Recycled,2004,0.182366
+1426,Canada,Recycled,2005,0.196315
+1427,Canada,Recycled,2006,0.212765
+1428,Canada,Recycled,2007,0.23002
+1429,Canada,Recycled,2008,0.238978
+1430,Canada,Recycled,2009,0.252816
+1431,Canada,Recycled,2010,0.2733
+1432,Canada,Recycled,2011,0.290475
+1433,Canada,Recycled,2012,0.305559
+1434,Canada,Recycled,2013,0.321601
+1435,Canada,Recycled,2014,0.335891
+1436,Canada,Recycled,2015,0.354606
+1437,Canada,Recycled,2016,0.370701
+1438,Canada,Recycled,2017,0.390651
+1439,Canada,Recycled,2018,0.410013
+1440,Canada,Recycled,2019,0.42892
+1441,Canada,Incinerated,2000,0.151097
+1442,Canada,Incinerated,2001,0.156862
+1443,Canada,Incinerated,2002,0.164828
+1444,Canada,Incinerated,2003,0.172013
+1445,Canada,Incinerated,2004,0.18022
+1446,Canada,Incinerated,2005,0.18649
+1447,Canada,Incinerated,2006,0.194709
+1448,Canada,Incinerated,2007,0.203178
+1449,Canada,Incinerated,2008,0.204259
+1450,Canada,Incinerated,2009,0.209382
+1451,Canada,Incinerated,2010,0.219283
+1452,Canada,Incinerated,2011,0.225832
+1453,Canada,Incinerated,2012,0.230889
+1454,Canada,Incinerated,2013,0.237054
+1455,Canada,Incinerated,2014,0.241876
+1456,Canada,Incinerated,2015,0.248394
+1457,Canada,Incinerated,2016,0.252534
+1458,Canada,Incinerated,2017,0.260052
+1459,Canada,Incinerated,2018,0.266649
+1460,Canada,Incinerated,2019,0.273282
+1461,Canada,Landfilled,2000,3.386902
+1462,Canada,Landfilled,2001,3.49591
+1463,Canada,Landfilled,2002,3.649937
+1464,Canada,Landfilled,2003,3.785881
+1465,Canada,Landfilled,2004,3.94134
+1466,Canada,Landfilled,2005,4.054461
+1467,Canada,Landfilled,2006,4.206085
+1468,Canada,Landfilled,2007,4.361217
+1469,Canada,Landfilled,2008,4.365033
+1470,Canada,Landfilled,2009,4.450204
+1471,Canada,Landfilled,2010,4.630027
+1472,Canada,Landfilled,2011,4.740612
+1473,Canada,Landfilled,2012,4.818247
+1474,Canada,Landfilled,2013,4.915739
+1475,Canada,Landfilled,2014,4.987383
+1476,Canada,Landfilled,2015,5.092917
+1477,Canada,Landfilled,2016,5.145813
+1478,Canada,Landfilled,2017,5.265962
+1479,Canada,Landfilled,2018,5.366679
+1480,Canada,Landfilled,2019,5.454918
+1481,Canada,Mismanaged,2000,0.485324
+1482,Canada,Mismanaged,2001,0.490428
+1483,Canada,Mismanaged,2002,0.500955
+1484,Canada,Mismanaged,2003,0.50812
+1485,Canada,Mismanaged,2004,0.516935
+1486,Canada,Mismanaged,2005,0.519342
+1487,Canada,Mismanaged,2006,0.525742
+1488,Canada,Mismanaged,2007,0.531595
+1489,Canada,Mismanaged,2008,0.518693
+1490,Canada,Mismanaged,2009,0.515015
+1491,Canada,Mismanaged,2010,0.521308
+1492,Canada,Mismanaged,2011,0.518913
+1493,Canada,Mismanaged,2012,0.512165
+1494,Canada,Mismanaged,2013,0.506808
+1495,Canada,Mismanaged,2014,0.498246
+1496,Canada,Mismanaged,2015,0.492557
+1497,Canada,Mismanaged,2016,0.481545
+1498,Canada,Mismanaged,2017,0.47597
+1499,Canada,Mismanaged,2018,0.467924
+1500,Canada,Mismanaged,2019,0.461986
+1501,Canada,Littered,2000,0.008696
+1502,Canada,Littered,2001,0.008903
+1503,Canada,Littered,2002,0.009273
+1504,Canada,Littered,2003,0.00957
+1505,Canada,Littered,2004,0.009938
+1506,Canada,Littered,2005,0.010157
+1507,Canada,Littered,2006,0.010518
+1508,Canada,Littered,2007,0.010884
+1509,Canada,Littered,2008,0.010683
+1510,Canada,Littered,2009,0.010779
+1511,Canada,Littered,2010,0.011222
+1512,Canada,Littered,2011,0.011418
+1513,Canada,Littered,2012,0.011539
+1514,Canada,Littered,2013,0.011754
+1515,Canada,Littered,2014,0.01186
+1516,Canada,Littered,2015,0.012051
+1517,Canada,Littered,2016,0.012089
+1518,Canada,Littered,2017,0.012348
+1519,Canada,Littered,2018,0.01255
+1520,Canada,Littered,2019,0.012739
+1541,China,Recycled,2000,0.819305
+1542,China,Recycled,2001,0.978061
+1543,China,Recycled,2002,1.175594
+1544,China,Recycled,2003,1.390838
+1545,China,Recycled,2004,1.644125
+1546,China,Recycled,2005,1.902358
+1547,China,Recycled,2006,2.21566
+1548,China,Recycled,2007,2.56735
+1549,China,Recycled,2008,2.828085
+1550,China,Recycled,2009,3.182728
+1551,China,Recycled,2010,3.673289
+1552,China,Recycled,2011,4.150221
+1553,China,Recycled,2012,4.619764
+1554,China,Recycled,2013,5.108443
+1555,China,Recycled,2014,5.661463
+1556,China,Recycled,2015,6.255403
+1557,China,Recycled,2016,6.801136
+1558,China,Recycled,2017,7.363416
+1559,China,Recycled,2018,7.792353
+1560,China,Recycled,2019,8.376888
+1561,China,Incinerated,2000,1.511666
+1562,China,Incinerated,2001,1.803924
+1563,China,Incinerated,2002,2.168121
+1564,China,Incinerated,2003,2.566184
+1565,China,Incinerated,2004,3.035372
+1566,China,Incinerated,2005,3.518244
+1567,China,Incinerated,2006,4.105111
+1568,China,Incinerated,2007,4.766192
+1569,China,Incinerated,2008,5.268875
+1570,China,Incinerated,2009,5.947425
+1571,China,Incinerated,2010,6.874876
+1572,China,Incinerated,2011,7.783855
+1573,China,Incinerated,2012,8.685457
+1574,China,Incinerated,2013,9.629737
+1575,China,Incinerated,2014,10.752291
+1576,China,Incinerated,2015,11.857089
+1577,China,Incinerated,2016,12.932418
+1578,China,Incinerated,2017,14.093147
+1579,China,Incinerated,2018,14.931927
+1580,China,Incinerated,2019,15.550022
+1581,China,Landfilled,2000,4.385828
+1582,China,Landfilled,2001,4.904224
+1583,China,Landfilled,2002,5.555359
+1584,China,Landfilled,2003,6.229594
+1585,China,Landfilled,2004,7.011468
+1586,China,Landfilled,2005,7.763701
+1587,China,Landfilled,2006,8.681941
+1588,China,Landfilled,2007,9.689794
+1589,China,Landfilled,2008,10.329424
+1590,China,Landfilled,2009,11.267118
+1591,China,Landfilled,2010,12.608753
+1592,China,Landfilled,2011,13.849907
+1593,China,Landfilled,2012,15.017808
+1594,China,Landfilled,2013,16.20427
+1595,China,Landfilled,2014,17.638243
+1596,China,Landfilled,2015,18.98366
+1597,China,Landfilled,2016,20.235727
+1598,China,Landfilled,2017,21.578175
+1599,China,Landfilled,2018,22.391112
+1600,China,Landfilled,2019,23.809201
+1601,China,Mismanaged,2000,10.350894
+1602,China,Mismanaged,2001,11.011444
+1603,China,Mismanaged,2002,11.856329
+1604,China,Mismanaged,2003,12.626884
+1605,China,Mismanaged,2004,13.48346
+1606,China,Mismanaged,2005,14.150368
+1607,China,Mismanaged,2006,14.978694
+1608,China,Mismanaged,2007,15.803812
+1609,China,Mismanaged,2008,15.907054
+1610,China,Mismanaged,2009,16.354476
+1611,China,Mismanaged,2010,17.217424
+1612,China,Mismanaged,2011,17.758225
+1613,China,Mismanaged,2012,18.039241
+1614,China,Mismanaged,2013,18.188501
+1615,China,Mismanaged,2014,18.450719
+1616,China,Mismanaged,2015,18.448486
+1617,China,Mismanaged,2016,18.205877
+1618,China,Mismanaged,2017,17.901154
+1619,China,Mismanaged,2018,17.046953
+1620,China,Mismanaged,2019,17.462667
+1621,China,Littered,2000,0.06832
+1622,China,Littered,2001,0.074258
+1623,China,Littered,2002,0.082158
+1624,China,Littered,2003,0.089846
+1625,China,Littered,2004,0.09887
+1626,China,Littered,2005,0.106778
+1627,China,Littered,2006,0.116941
+1628,China,Littered,2007,0.12783
+1629,China,Littered,2008,0.131682
+1630,China,Littered,2009,0.139866
+1631,China,Littered,2010,0.153783
+1632,China,Littered,2011,0.165056
+1633,China,Littered,2012,0.175396
+1634,China,Littered,2013,0.18612
+1635,China,Littered,2014,0.197918
+1636,China,Littered,2015,0.209108
+1637,China,Littered,2016,0.217909
+1638,China,Littered,2017,0.22648
+1639,China,Littered,2018,0.230173
+1640,China,Littered,2019,0.239827
+1661,India,Recycled,2000,0.177113
+1662,India,Recycled,2001,0.213219
+1663,India,Recycled,2002,0.25786
+1664,India,Recycled,2003,0.306986
+1665,India,Recycled,2004,0.364581
+1666,India,Recycled,2005,0.424071
+1667,India,Recycled,2006,0.49559
+1668,India,Recycled,2007,0.576077
+1669,India,Recycled,2008,0.639663
+1670,India,Recycled,2009,0.723496
+1671,India,Recycled,2010,0.85249
+1672,India,Recycled,2011,0.985182
+1673,India,Recycled,2012,1.124309
+1674,India,Recycled,2013,1.284454
+1675,India,Recycled,2014,1.457559
+1676,India,Recycled,2015,1.623198
+1677,India,Recycled,2016,1.824238
+1678,India,Recycled,2017,2.039447
+1679,India,Recycled,2018,2.262457
+1680,India,Recycled,2019,2.469077
+1681,India,Incinerated,2000,0.058963
+1682,India,Incinerated,2001,0.069954
+1683,India,Incinerated,2002,0.083581
+1684,India,Incinerated,2003,0.098505
+1685,India,Incinerated,2004,0.116008
+1686,India,Incinerated,2005,0.134074
+1687,India,Incinerated,2006,0.155846
+1688,India,Incinerated,2007,0.180348
+1689,India,Incinerated,2008,0.199765
+1690,India,Incinerated,2009,0.225408
+1691,India,Incinerated,2010,0.264545
+1692,India,Incinerated,2011,0.304838
+1693,India,Incinerated,2012,0.347266
+1694,India,Incinerated,2013,0.396676
+1695,India,Incinerated,2014,0.45036
+1696,India,Incinerated,2015,0.499804
+1697,India,Incinerated,2016,0.561943
+1698,India,Incinerated,2017,0.629297
+1699,India,Incinerated,2018,0.700646
+1700,India,Incinerated,2019,0.770517
+1701,India,Landfilled,2000,0.87639
+1702,India,Landfilled,2001,0.99107
+1703,India,Landfilled,2002,1.132303
+1704,India,Landfilled,2003,1.280726
+1705,India,Landfilled,2004,1.451476
+1706,India,Landfilled,2005,1.619195
+1707,India,Landfilled,2006,1.82026
+1708,India,Landfilled,2007,2.041613
+1709,India,Landfilled,2008,2.199045
+1710,India,Landfilled,2009,2.415101
+1711,India,Landfilled,2010,2.75921
+1712,India,Landfilled,2011,3.101074
+1713,India,Landfilled,2012,3.45013
+1714,India,Landfilled,2013,3.853111
+1715,India,Landfilled,2014,4.283499
+1716,India,Landfilled,2015,4.662999
+1717,India,Landfilled,2016,5.145957
+1718,India,Landfilled,2017,5.66324
+1719,India,Landfilled,2018,6.200435
+1720,India,Landfilled,2019,6.720652
+1721,India,Mismanaged,2000,2.359011
+1722,India,Mismanaged,2001,2.567475
+1723,India,Mismanaged,2002,2.822789
+1724,India,Mismanaged,2003,3.072402
+1725,India,Mismanaged,2004,3.350256
+1726,India,Mismanaged,2005,3.595685
+1727,India,Mismanaged,2006,3.888038
+1728,India,Mismanaged,2007,4.193827
+1729,India,Mismanaged,2008,4.344496
+1730,India,Mismanaged,2009,4.587107
+1731,India,Mismanaged,2010,5.035518
+1732,India,Mismanaged,2011,5.436582
+1733,India,Mismanaged,2012,5.808127
+1734,India,Mismanaged,2013,6.225948
+1735,India,Mismanaged,2014,6.64171
+1736,India,Mismanaged,2015,6.936626
+1737,India,Mismanaged,2016,7.340763
+1738,India,Mismanaged,2017,7.743059
+1739,India,Mismanaged,2018,8.119849
+1740,India,Mismanaged,2019,8.457541
+1741,India,Littered,2000,0.020257
+1742,India,Littered,2001,0.022256
+1743,India,Littered,2002,0.024798
+1744,India,Littered,2003,0.027331
+1745,India,Littered,2004,0.030243
+1746,India,Littered,2005,0.032885
+1747,India,Littered,2006,0.036145
+1748,India,Littered,2007,0.039645
+1749,India,Littered,2008,0.041358
+1750,India,Littered,2009,0.044243
+1751,India,Littered,2010,0.049803
+1752,India,Littered,2011,0.055028
+1753,India,Littered,2012,0.060186
+1754,India,Littered,2013,0.066194
+1755,India,Littered,2014,0.072188
+1756,India,Littered,2015,0.076561
+1757,India,Littered,2016,0.082559
+1758,India,Littered,2017,0.088648
+1759,India,Littered,2018,0.094744
+1760,India,Littered,2019,0.100624
