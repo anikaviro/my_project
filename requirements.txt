@@ -1,3 +1,5 @@
 requirements
 
 - Pandas
+- Matplotlib
+- Seaborn
